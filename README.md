@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1YSHhBXD-3vXSsK1qmyTpoavMAUkVwE6O/view?usp=sharing)](https://codegrills.in)
+[![MasterHead](https://drive.google.com/file/d/1YSHhBXD-3vXSsK1qmyTpoavMAUkVwE6O/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm Bhushan Wagh</h1>
 <h3 align="center">Crafting Beautiful Web Experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
