@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **waghbk281@gmail.com**
        
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1P3bhRofG6ewTeoDRcKiwrqWRlv-O_-Eh](https://drive.google.com/drive/folders/1P3bhRofG6ewTeoDRcKiwrqWRlv-O_-Eh)
+- 📄 Know about my experiences [click here](https://drive.google.com/drive/folders/1P3bhRofG6ewTeoDRcKiwrqWRlv-O_-Eh)
        
       
 <h3 align="left">Connect with me:</h3>
