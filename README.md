@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhushan Wagh</h1>
 <h3 align="center">Crafting Beautiful Web Experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-                                   
+                                       
 - 🔭 I’m currently working on **30-Days-Of-React**
 
 - 🌱 I’m currently learning **Frontend & Cloud Services**
